@@ -3155,14 +3155,13 @@ expo-font@9.2.1, expo-font@~9.2.1:
     expo-modules-core "~0.2.0"
     fontfaceobserver "^2.1.0"
 
-expo-image-picker@10.2.2:
-  version "10.2.2"
-  resolved "https://registry.yarnpkg.com/expo-image-picker/-/expo-image-picker-10.2.2.tgz#7501a13306029f672a165f53545ee5dc5f5dc009"
-  integrity sha512-LCssY/wy4Y/7YsxoUO7PvjqwtQ9L84hxP86RLPnRSUSZy7s+00wnHFctrrtQ0UO4yR2i7rKTMTpkBEP6NVHv2w==
+expo-image-picker@10.2.3:
+  version "10.2.3"
+  resolved "https://registry.yarnpkg.com/expo-image-picker/-/expo-image-picker-10.2.3.tgz#204c83ba0731f2ccdbc42e13f9bf6e37be21c354"
+  integrity sha512-8VXLYjclXoQJHbdNLI21rdbnxFisBpZ6TgIifHf9kZ/momFBegUNqEKCjosvxVGVM8f7qaQxJV/znNtW0rDM/w==
   dependencies:
     "@expo/config-plugins" "^3.0.0"
     expo-modules-core "~0.2.0"
-    expo-permissions "~12.1.1"
     uuid "7.0.2"
 
 expo-keep-awake@~9.2.0:
@@ -3185,13 +3184,6 @@ expo-modules-core@~0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/expo-modules-core/-/expo-modules-core-0.2.0.tgz#68e5b6e53d0afbf8d131578831aed657589a2d42"
   integrity sha512-inpfZ5X/BaTtbj2wG9PA9AC0MN8VyId6KSRlVuEg7+ziurHBy/kKDFxpOddUokhwiln2uhoYPSStJjR/tKypdw==
-
-expo-permissions@~12.1.1:
-  version "12.1.1"
-  resolved "https://registry.yarnpkg.com/expo-permissions/-/expo-permissions-12.1.1.tgz#93fd8569d4106ff9dd66d67619cb69a0aa895482"
-  integrity sha512-fHBB4A/aWMcvdmDY79gpgQt0ufKG8F1gwTgO3+RjjudVe5kovNy5TeXdHrCa0MksFVKjktqLjJrgiBITJXjg+g==
-  dependencies:
-    expo-modules-core "~0.2.0"
 
 expo-splash-screen@~0.11.2:
   version "0.11.2"
